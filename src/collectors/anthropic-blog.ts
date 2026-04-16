@@ -3,7 +3,7 @@ import { toAbsoluteUrl } from "../lib/links.js";
 
 const ANTHROPIC_NEWS_URL = "https://www.anthropic.com/news";
 const CARD_RE =
-  /<a[^>]+href="(\/news\/[^"#?]+)"[^>]*>[\s\S]*?<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>[\s\S]*?(?:<p[^>]*>([\s\S]*?)<\/p>)?[\s\S]*?<\/a>/g;
+  /<a[^>]+href="(\/news\/[^"#?]+)"[^>]*>[\s\S]*?<time[^>]*>([\s\S]*?)<\/time>[\s\S]*?<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>[\s\S]*?(?:<p[^>]*>([\s\S]*?)<\/p>)?[\s\S]*?<\/a>/g;
 
 function stripTags(value: string): string {
   return value.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
@@ -18,6 +18,13 @@ function decodeHtmlEntities(value: string): string {
     .replace(/&#39;/g, "'");
 }
 
+function parseAnthropicDate(value: string): string | undefined {
+  const normalized = decodeHtmlEntities(stripTags(value));
+  const time = Date.parse(`${normalized} UTC`);
+  if (Number.isNaN(time)) return undefined;
+  return new Date(time).toISOString();
+}
+
 export async function collectAnthropicBlog(): Promise<CollectedArticle[]> {
   const res = await fetch(ANTHROPIC_NEWS_URL);
   if (!res.ok) {
@@ -30,8 +37,9 @@ export async function collectAnthropicBlog(): Promise<CollectedArticle[]> {
 
   for (const match of html.matchAll(CARD_RE)) {
     const href = match[1];
-    const title = decodeHtmlEntities(stripTags(match[2] ?? ""));
-    const summary = decodeHtmlEntities(stripTags(match[3] ?? ""));
+    const publishedAt = parseAnthropicDate(match[2] ?? "");
+    const title = decodeHtmlEntities(stripTags(match[3] ?? ""));
+    const summary = decodeHtmlEntities(stripTags(match[4] ?? ""));
     const url = toAbsoluteUrl(href, "https://www.anthropic.com/");
     if (!title || seen.has(url)) continue;
 
@@ -41,6 +49,7 @@ export async function collectAnthropicBlog(): Promise<CollectedArticle[]> {
       title: title.slice(0, 300),
       url,
       summary: summary ? summary.slice(0, 500) : undefined,
+      publishedAt,
     });
 
     if (articles.length >= 20) break;

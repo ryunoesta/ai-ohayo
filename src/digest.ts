@@ -14,6 +14,25 @@ import {
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PROFILE_PATH = join(__dirname, "config/profile.yaml");
 
+function toJstDateKey(date: Date): string {
+  return new Intl.DateTimeFormat("sv-SE", {
+    timeZone: "Asia/Tokyo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
+}
+
+function filterTodayArticles<T extends { publishedAt?: string }>(articles: T[], now = new Date()): T[] {
+  const today = toJstDateKey(now);
+  return articles.filter((article) => {
+    if (!article.publishedAt) return false;
+    const publishedAt = new Date(article.publishedAt);
+    if (Number.isNaN(publishedAt.getTime())) return false;
+    return toJstDateKey(publishedAt) === today;
+  });
+}
+
 async function main() {
   const profileYaml = readFileSync(PROFILE_PATH, "utf-8");
   let delivered = loadDelivered();
@@ -28,11 +47,12 @@ async function main() {
     process.exit(1);
   }
 
-  const articles = filterNewArticles(delivered, rawArticles);
+  const todaysArticles = filterTodayArticles(rawArticles);
+  const articles = filterNewArticles(delivered, todaysArticles);
 
   if (articles.length === 0) {
-    console.log("[digest] no new articles after dedupe; posting no-news message.");
-    await postDigestToSlack([], "今日は特筆すべきニュースはありませんでした（直近配信済みのため新規なし）。");
+    console.log("[digest] no new articles published today after dedupe; posting no-news message.");
+    await postDigestToSlack([], "今日は公開日の新着記事はありませんでした。");
     process.exit(0);
   }
 

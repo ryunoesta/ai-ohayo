@@ -50,7 +50,6 @@ function buildItemBlocks(item: DigestItem, index: number, total: number, date = 
         `*Link* ${item.url}` +
         (tags.length > 0 ? `\n*Tags* ${tags.map(escapeSlackMrkdwn).join(", ")}` : "")
     ),
-    sectionMrkdwn("💬 この投稿のスレッドで @Claude に聞いてね！"),
   ];
 }
 
@@ -67,8 +66,6 @@ export function buildDigestBlocks(items: DigestItem[], noNewsMessage?: string, d
     },
     dividerBlock(),
     sectionMrkdwn(noNewsMessage ?? "今日は特筆すべきニュースはありませんでした。"),
-    dividerBlock(),
-    sectionMrkdwn("💬 気になる記事はスレッドで @Claude に聞いてね！"),
   ];
 }
 
