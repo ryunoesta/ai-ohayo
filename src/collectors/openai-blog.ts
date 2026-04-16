@@ -1,14 +1,17 @@
+import Parser from "rss-parser";
 import type { CollectedArticle } from "../types.js";
-import { extractMarkdownLinks, toAbsoluteUrl } from "../lib/links.js";
-import { scrapeMarkdown } from "../lib/firecrawl.js";
 
 export async function collectOpenAiBlog(): Promise<CollectedArticle[]> {
-  const md = await scrapeMarkdown("https://openai.com/blog");
-  if (!md) return [];
-  const links = extractMarkdownLinks(md, (u) => /openai\.com\/blog/i.test(u));
-  return links.slice(0, 20).map((l) => ({
+  const parser = new Parser();
+  const feed = await parser.parseURL("https://openai.com/news/rss.xml");
+  return (feed.items ?? []).slice(0, 20).map((item) => ({
     source: "openai",
-    title: l.title.slice(0, 300),
-    url: toAbsoluteUrl(l.url, "https://openai.com/"),
+    title: (item.title ?? "Untitled").trim().slice(0, 300),
+    url: item.link ?? "",
+    summary: item.contentSnippet?.slice(0, 500),
+    publishedAt: item.isoDate ?? item.pubDate,
+    tags: Array.isArray(item.categories)
+      ? item.categories.map(String).slice(0, 3)
+      : undefined,
   }));
 }

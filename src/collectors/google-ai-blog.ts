@@ -1,16 +1,17 @@
+import Parser from "rss-parser";
 import type { CollectedArticle } from "../types.js";
-import { extractMarkdownLinks, toAbsoluteUrl } from "../lib/links.js";
-import { scrapeMarkdown } from "../lib/firecrawl.js";
 
 export async function collectGoogleAiBlog(): Promise<CollectedArticle[]> {
-  const md = await scrapeMarkdown("https://blog.google/technology/ai/");
-  if (!md) return [];
-  const links = extractMarkdownLinks(md, (u) =>
-    /blog\.google\/technology\/ai\//i.test(u)
-  );
-  return links.slice(0, 20).map((l) => ({
+  const parser = new Parser();
+  const feed = await parser.parseURL("https://blog.google/technology/ai/rss/");
+  return (feed.items ?? []).slice(0, 20).map((item) => ({
     source: "google",
-    title: l.title.slice(0, 300),
-    url: toAbsoluteUrl(l.url, "https://blog.google/"),
+    title: (item.title ?? "Untitled").trim().slice(0, 300),
+    url: item.link ?? "",
+    summary: item.contentSnippet?.slice(0, 500),
+    publishedAt: item.isoDate ?? item.pubDate,
+    tags: Array.isArray(item.categories)
+      ? item.categories.map(String).slice(0, 3)
+      : undefined,
   }));
 }
