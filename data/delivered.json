@@ -1,122 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/sc30gsw/articles/e656fa295deb3f",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/yend724/articles/20260414-195637896vp2b6jp",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/microsoft/articles/github-copilot-cli-remote-session",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/nttdata_tech/articles/11f406b0f1cfd4",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/misadroid/articles/088a9cc0312a78",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/dantarg/articles/3235e5affbb7c9",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/ubie_dev/articles/ad3f556639d44e",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://zenn.dev/yumeno/articles/5daff12fd4eeb0",
-      "deliveredAt": "2026-04-16T02:53:01.334Z"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://zenn.dev/acntechjp/articles/031acfe6379ebe",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://zenn.dev/aos_standard/articles/2b038aaf4e9b4f",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://zenn.dev/ubie_dev/articles/sec-agent-harness-eng",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://zenn.dev/val_api_team/books/ekispert-api-mcp-server-handson",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://github.com/saffron-health/libretto",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://zenn.dev/shouki1484/articles/x-ogp-firebase-storage",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://chatgpt.com/apps/spreadsheets/",
-      "deliveredAt": "2026-04-16T04:28:40.970Z"
-    },
-    {
-      "url": "https://zenn.dev/atusi/articles/1d3e32195b416f",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://www.anthropic.com/news/claude-opus-4-6",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://openai.com/academy/prompting",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://zenn.dev/playree/articles/2376eee1d9d24d",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://zenn.dev/digeon/articles/42f4788894cfb4",
-      "deliveredAt": "2026-04-16T04:31:21.232Z"
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
-      "deliveredAt": "2026-04-16T20:48:05.194Z"
-    },
-    {
-      "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-      "deliveredAt": "2026-04-16T20:48:05.194Z"
-    },
-    {
-      "url": "https://www.phoronix.com/news/Mozilla-Thunderbolt",
-      "deliveredAt": "2026-04-16T20:48:05.194Z"
-    },
-    {
-      "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-      "deliveredAt": "2026-04-16T20:48:05.194Z"
-    },
-    {
-      "url": "https://andonlabs.com/blog/andon-market-launch",
-      "deliveredAt": "2026-04-16T20:48:05.194Z"
-    },
-    {
       "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
       "deliveredAt": "2026-04-17T20:43:22.768Z"
     },
@@ -183,6 +67,22 @@
     {
       "url": "https://www.trainlyai.com/audit",
       "deliveredAt": "2026-04-22T20:55:09.953Z"
+    },
+    {
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "deliveredAt": "2026-04-23T20:52:54.225Z"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "deliveredAt": "2026-04-23T20:52:54.225Z"
+    },
+    {
+      "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+      "deliveredAt": "2026-04-23T20:52:54.225Z"
+    },
+    {
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "deliveredAt": "2026-04-23T20:52:54.225Z"
     }
   ]
 }
