@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-      "deliveredAt": "2026-04-18T20:37:12.239Z"
-    },
-    {
-      "url": "https://jianshiapp.com/two-20-billion-openai-and-nvidia-in-a-reasoning-battle/",
-      "deliveredAt": "2026-04-18T20:37:12.239Z"
-    },
-    {
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "deliveredAt": "2026-04-18T20:37:12.239Z"
-    },
-    {
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "deliveredAt": "2026-04-18T20:37:12.239Z"
-    },
-    {
       "url": "https://zenn.dev/hamadebug/articles/b5aeaca4be42d4",
       "deliveredAt": "2026-04-19T20:38:00.127Z"
     },
@@ -107,6 +91,18 @@
     {
       "url": "https://dylancastillo.co/til/llm-research-on-hacker-news-is-dying.html",
       "deliveredAt": "2026-04-24T20:48:20.028Z"
+    },
+    {
+      "url": "https://zenn.dev/joemike/articles/indie-dev-email-automation-2026",
+      "deliveredAt": "2026-04-25T20:38:25.651Z"
+    },
+    {
+      "url": "https://github.com/rockcat/HATS",
+      "deliveredAt": "2026-04-25T20:38:25.651Z"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1sd26pWhfmg",
+      "deliveredAt": "2026-04-25T20:38:25.651Z"
     }
   ]
 }
