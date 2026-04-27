@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/hamadebug/articles/b5aeaca4be42d4",
-      "deliveredAt": "2026-04-19T20:38:00.127Z"
-    },
-    {
-      "url": "https://zenn.dev/miyabitti/articles/1128aa20bf32ff",
-      "deliveredAt": "2026-04-20T20:45:59.582Z"
-    },
-    {
-      "url": "https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/",
-      "deliveredAt": "2026-04-20T20:45:59.582Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "deliveredAt": "2026-04-20T20:45:59.582Z"
-    },
-    {
       "url": "https://openai.com/live/",
       "deliveredAt": "2026-04-21T20:52:51.717Z"
     },
@@ -107,6 +91,18 @@
     {
       "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
       "deliveredAt": "2026-04-26T20:38:06.677Z"
+    },
+    {
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "deliveredAt": "2026-04-27T21:01:59.781Z"
+    },
+    {
+      "url": "https://zenn.dev/joemike/articles/indie-dev-onboarding-design-2026",
+      "deliveredAt": "2026-04-27T21:01:59.781Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "deliveredAt": "2026-04-27T21:01:59.781Z"
     }
   ]
 }
