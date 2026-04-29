@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-      "deliveredAt": "2026-04-22T20:55:09.953Z"
-    },
-    {
-      "url": "https://zed.dev/blog/parallel-agents",
-      "deliveredAt": "2026-04-22T20:55:09.953Z"
-    },
-    {
-      "url": "https://github.com/besimple-oss/broccoli",
-      "deliveredAt": "2026-04-22T20:55:09.953Z"
-    },
-    {
-      "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-      "deliveredAt": "2026-04-22T20:55:09.953Z"
-    },
-    {
-      "url": "https://www.trainlyai.com/audit",
-      "deliveredAt": "2026-04-22T20:55:09.953Z"
-    },
-    {
       "url": "https://openai.com/index/introducing-gpt-5-5/",
       "deliveredAt": "2026-04-23T20:52:54.225Z"
     },
@@ -111,6 +91,26 @@
     {
       "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
       "deliveredAt": "2026-04-28T21:06:32.360Z"
+    },
+    {
+      "url": "https://zenn.dev/joemike/articles/indie-dev-free-to-paid-conversion-design-2026",
+      "deliveredAt": "2026-04-29T21:05:07.039Z"
+    },
+    {
+      "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+      "deliveredAt": "2026-04-29T21:05:07.039Z"
+    },
+    {
+      "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+      "deliveredAt": "2026-04-29T21:05:07.039Z"
+    },
+    {
+      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+      "deliveredAt": "2026-04-29T21:05:07.039Z"
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+      "deliveredAt": "2026-04-29T21:05:07.039Z"
     }
   ]
 }
