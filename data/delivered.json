@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "deliveredAt": "2026-04-23T20:52:54.225Z"
-    },
-    {
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "deliveredAt": "2026-04-23T20:52:54.225Z"
-    },
-    {
-      "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
-      "deliveredAt": "2026-04-23T20:52:54.225Z"
-    },
-    {
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "deliveredAt": "2026-04-23T20:52:54.225Z"
-    },
-    {
       "url": "https://developers.openai.com/api/docs/changelog",
       "deliveredAt": "2026-04-24T20:48:20.028Z"
     },
@@ -111,6 +95,18 @@
     {
       "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
       "deliveredAt": "2026-04-29T21:05:07.039Z"
+    },
+    {
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "deliveredAt": "2026-04-30T21:00:27.914Z"
+    },
+    {
+      "url": "https://contralabs.com/research/human-creativity-benchmark",
+      "deliveredAt": "2026-04-30T21:00:27.914Z"
+    },
+    {
+      "url": "https://github.com/carlovalenti/TRiP",
+      "deliveredAt": "2026-04-30T21:00:27.914Z"
     }
   ]
 }
