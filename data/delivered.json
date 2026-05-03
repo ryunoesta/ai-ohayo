@@ -1,10 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "deliveredAt": "2026-04-26T20:38:06.677Z"
-    },
-    {
       "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
       "deliveredAt": "2026-04-27T21:01:59.781Z"
     },
@@ -91,6 +87,18 @@
     {
       "url": "https://arxiv.org/abs/2509.00462",
       "deliveredAt": "2026-05-02T20:41:08.897Z"
+    },
+    {
+      "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+      "deliveredAt": "2026-05-03T20:42:02.930Z"
+    },
+    {
+      "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
+      "deliveredAt": "2026-05-03T20:42:02.930Z"
+    },
+    {
+      "url": "https://azfreenews.com/2026/05/asu-using-ai-tool-to-create-courses-from-professors-work-without-their-knowledge/",
+      "deliveredAt": "2026-05-03T20:42:02.930Z"
     }
   ]
 }
