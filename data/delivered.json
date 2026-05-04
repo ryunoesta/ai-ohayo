@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "deliveredAt": "2026-04-27T21:01:59.781Z"
-    },
-    {
-      "url": "https://zenn.dev/joemike/articles/indie-dev-onboarding-design-2026",
-      "deliveredAt": "2026-04-27T21:01:59.781Z"
-    },
-    {
-      "url": "https://deepmind.google/blog/decoupled-diloco/",
-      "deliveredAt": "2026-04-27T21:01:59.781Z"
-    },
-    {
       "url": "https://zenn.dev/enaga7561/articles/3bd55b1def1e48",
       "deliveredAt": "2026-04-28T21:06:32.360Z"
     },
@@ -99,6 +87,26 @@
     {
       "url": "https://azfreenews.com/2026/05/asu-using-ai-tool-to-create-courses-from-professors-work-without-their-knowledge/",
       "deliveredAt": "2026-05-03T20:42:02.930Z"
+    },
+    {
+      "url": "https://zenn.dev/skyremt/articles/3b075184d9fcc3",
+      "deliveredAt": "2026-05-04T21:08:31.754Z"
+    },
+    {
+      "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
+      "deliveredAt": "2026-05-04T21:08:31.754Z"
+    },
+    {
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "deliveredAt": "2026-05-04T21:08:31.754Z"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "deliveredAt": "2026-05-04T21:08:31.754Z"
+    },
+    {
+      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+      "deliveredAt": "2026-05-04T21:08:31.754Z"
     }
   ]
 }
