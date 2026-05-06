@@ -1,46 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/enaga7561/articles/3bd55b1def1e48",
-      "deliveredAt": "2026-04-28T21:06:32.360Z"
-    },
-    {
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "deliveredAt": "2026-04-28T21:06:32.360Z"
-    },
-    {
-      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-      "deliveredAt": "2026-04-28T21:06:32.360Z"
-    },
-    {
-      "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-      "deliveredAt": "2026-04-28T21:06:32.360Z"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
-      "deliveredAt": "2026-04-28T21:06:32.360Z"
-    },
-    {
-      "url": "https://zenn.dev/joemike/articles/indie-dev-free-to-paid-conversion-design-2026",
-      "deliveredAt": "2026-04-29T21:05:07.039Z"
-    },
-    {
-      "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
-      "deliveredAt": "2026-04-29T21:05:07.039Z"
-    },
-    {
-      "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
-      "deliveredAt": "2026-04-29T21:05:07.039Z"
-    },
-    {
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "deliveredAt": "2026-04-29T21:05:07.039Z"
-    },
-    {
-      "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-      "deliveredAt": "2026-04-29T21:05:07.039Z"
-    },
-    {
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "deliveredAt": "2026-04-30T21:00:27.914Z"
     },
@@ -119,6 +79,14 @@
     {
       "url": "https://news.ycombinator.com/item?id=48023496",
       "deliveredAt": "2026-05-05T21:02:24.565Z"
+    },
+    {
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "deliveredAt": "2026-05-06T21:11:05.904Z"
+    },
+    {
+      "url": "https://tilde.run/",
+      "deliveredAt": "2026-05-06T21:11:05.904Z"
     }
   ]
 }
