@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/joemike/articles/indie-dev-dunning-management-2026",
-      "deliveredAt": "2026-05-01T20:52:32.479Z"
-    },
-    {
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "deliveredAt": "2026-05-01T20:52:32.479Z"
-    },
-    {
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-      "deliveredAt": "2026-05-01T20:52:32.479Z"
-    },
-    {
-      "url": "https://github.com/xodn348/destiny",
-      "deliveredAt": "2026-05-01T20:52:32.479Z"
-    },
-    {
       "url": "https://flueframework.com/",
       "deliveredAt": "2026-05-02T20:41:08.897Z"
     },
@@ -99,6 +83,18 @@
     {
       "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "deliveredAt": "2026-05-07T21:04:30.317Z"
+    },
+    {
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "deliveredAt": "2026-05-08T20:59:52.949Z"
+    },
+    {
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "deliveredAt": "2026-05-08T20:59:52.949Z"
+    },
+    {
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "deliveredAt": "2026-05-08T20:59:52.949Z"
     }
   ]
 }
