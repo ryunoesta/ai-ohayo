@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/skyremt/articles/3b075184d9fcc3",
-      "deliveredAt": "2026-05-04T21:08:31.754Z"
-    },
-    {
-      "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-      "deliveredAt": "2026-05-04T21:08:31.754Z"
-    },
-    {
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "deliveredAt": "2026-05-04T21:08:31.754Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "deliveredAt": "2026-05-04T21:08:31.754Z"
-    },
-    {
-      "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-      "deliveredAt": "2026-05-04T21:08:31.754Z"
-    },
-    {
       "url": "https://zenn.dev/muno_sunsun/articles/459ba7aff3e075",
       "deliveredAt": "2026-05-05T21:02:24.565Z"
     },
@@ -87,6 +67,14 @@
     {
       "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
       "deliveredAt": "2026-05-10T20:47:00.894Z"
+    },
+    {
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "deliveredAt": "2026-05-11T21:16:19.798Z"
+    },
+    {
+      "url": "https://bild.ai/jobs",
+      "deliveredAt": "2026-05-11T21:16:19.798Z"
     }
   ]
 }
