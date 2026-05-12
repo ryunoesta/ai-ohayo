@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/muno_sunsun/articles/459ba7aff3e075",
-      "deliveredAt": "2026-05-05T21:02:24.565Z"
-    },
-    {
-      "url": "https://arxiv.org/abs/2604.26752",
-      "deliveredAt": "2026-05-05T21:02:24.565Z"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48023496",
-      "deliveredAt": "2026-05-05T21:02:24.565Z"
-    },
-    {
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
       "deliveredAt": "2026-05-06T21:11:05.904Z"
     },
@@ -75,6 +63,22 @@
     {
       "url": "https://bild.ai/jobs",
       "deliveredAt": "2026-05-11T21:16:19.798Z"
+    },
+    {
+      "url": "https://github.com/cactus-compute/needle",
+      "deliveredAt": "2026-05-12T21:19:42.780Z"
+    },
+    {
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "deliveredAt": "2026-05-12T21:19:42.780Z"
+    },
+    {
+      "url": "https://voker.ai",
+      "deliveredAt": "2026-05-12T21:19:42.780Z"
+    },
+    {
+      "url": "https://news.ycombinator.com/item?id=48110593",
+      "deliveredAt": "2026-05-12T21:19:42.780Z"
     }
   ]
 }
