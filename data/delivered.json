@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "deliveredAt": "2026-05-06T21:11:05.904Z"
-    },
-    {
-      "url": "https://tilde.run/",
-      "deliveredAt": "2026-05-06T21:11:05.904Z"
-    },
-    {
       "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "deliveredAt": "2026-05-07T21:04:30.317Z"
     },
@@ -79,6 +71,14 @@
     {
       "url": "https://news.ycombinator.com/item?id=48110593",
       "deliveredAt": "2026-05-12T21:19:42.780Z"
+    },
+    {
+      "url": "https://zenn.dev/peka2/articles/6dc7d5a87a99dd",
+      "deliveredAt": "2026-05-13T21:26:01.093Z"
+    },
+    {
+      "url": "https://bitplane.net/log/2026/05/rars/",
+      "deliveredAt": "2026-05-13T21:26:01.093Z"
     }
   ]
 }
