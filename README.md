@@ -1,6 +1,6 @@
 # ai-ohayo
 
-EC フロント向けの AI・テック朝刊を GitHub Actions で毎朝（JST 5:00）生成し、Slack Incoming Webhook に投稿します。
+EC フロント向けの AI・テック朝刊を GitHub Actions で毎朝（JST 5:00）生成し、Slack Incoming Webhook に投稿します。個人利用向けに作者が作ったもので、**fork やテンプレから使われることも想定**して公開しているため、後述の `delivered.json` の扱いを読んでおいてください。
 
 ## 必要なもの
 
@@ -17,6 +17,13 @@ cp .env.example .env   # 任意（ローカル実行用）
 
 `src/config/profile.yaml` でユーザープロフィールを編集します。
 
+**fork して自分用に動かす方へ:** 作者の運用の名残で、`data/delivered.json`（投稿済み URL を覚えておくファイル）がリポジトリに含まれることがあります。Actions はこのファイルを更新して push する設計なので、**clone した時点では作者環境の投稿履歴が入っている**ことがあります。自分用に使うときは、重複判定をクリーンにする意味でも、**`{"entries":[]}` から始める**ことをおすすめします（意図せず「もう出した」とみなされてスキップされるのを防げます）。
+
+```bash
+echo '{"entries":[]}' > data/delivered.json
+git add data/delivered.json && git commit -m "chore: delivered.json を自分用に初期化"
+```
+
 ## ローカル実行
 
 ```bash
@@ -28,7 +35,7 @@ npm run digest
 
 ## GitHub に載せるとき
 
-1. リポジトリを作成し、このディレクトリを push
+1. このリポジトリを fork するか、内容を自分のリポジトリへ push（**fork して運用する場合は、先に「fork して自分用に動かす方へ」のとおり `data/delivered.json` を整えてから進めると安全です**）
 2. Settings → Secrets and variables → Actions に上記 3 つの Secret を登録
 3. Actions → 「ai-ohayo」を手動実行して動作確認
 
