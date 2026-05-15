@@ -1,14 +1,16 @@
 import Parser from "rss-parser";
 import type { CollectedArticle } from "../types.js";
-import { extractMarkdownLinks } from "../lib/links.js";
-import { scrapeMarkdown } from "../lib/firecrawl.js";
 
-const FEEDS = [
-  "https://zenn.dev/feed",
+/** トレンド（公式: https://zenn.dev/zenn/articles/zenn-feed-rss） */
+const ZENN_TREND_FEED = "https://zenn.dev/feed";
+
+const ZENN_TOPIC_FEEDS = [
   "https://zenn.dev/topics/tech/feed",
   "https://zenn.dev/topics/nextjs/feed",
   "https://zenn.dev/topics/typescript/feed",
 ];
+
+const FEEDS = [ZENN_TREND_FEED, ...ZENN_TOPIC_FEEDS];
 
 const parser = new Parser();
 
@@ -48,19 +50,6 @@ export async function collectZennRss(): Promise<CollectedArticle[]> {
   return out.slice(0, 25);
 }
 
-/** Zenn トップのトレンド（Firecrawl） */
-export async function collectZennTrending(): Promise<CollectedArticle[]> {
-  const md = await scrapeMarkdown("https://zenn.dev");
-  if (!md) return [];
-  const links = extractMarkdownLinks(md, (u) => /zenn\.dev\/[^/]+\/articles\//.test(u));
-  return links.slice(0, 15).map((l) => ({
-    source: "zenn",
-    title: l.title.slice(0, 200),
-    url: l.url,
-  }));
-}
-
 export async function collectZenn(): Promise<CollectedArticle[]> {
-  // トレンドは RSS（FEEDS）でカバーするため、まずはRSSのみを返す
   return await collectZennRss();
 }

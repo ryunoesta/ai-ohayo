@@ -9,7 +9,7 @@ EC フロント向けの AI・テック朝刊を GitHub Actions で毎朝（JST 
 - **任意（X）:** `X_BEARER_TOKEN` — [X Developer Portal](https://developer.x.com/) のプロジェクトで発行する **API v2 の Bearer Token**（`users/by/username` / `users/:id/tweets` が使えるアクセスレベルが必要）。
 - Slack の Incoming Webhook（`#ai-ohayo` など任意のチャンネル）
 
-主なソース: **Zenn**（RSS + Firecrawl トレンド補完）、**OpenAI / Google AI**（RSS）、**Anthropic News**（HTML 取得）、**Hacker News**（API）、**TechCrunch**（RSS）、**BBC Technology**（RSS）、**X**（`X_BEARER_TOKEN` ＋ `src/config/x-twitter.yaml`）。
+主なソース: **Zenn**（公式トレンド `/feed` ＋ トピック RSS）、**OpenAI / Google AI**（RSS）、**Anthropic News**（Firecrawl で一覧を scrape し Markdown からリンク抽出）、**Hacker News**（公式 JSON API）、**TechCrunch**（RSS）、**BBC Technology**（RSS）、**X**（`X_BEARER_TOKEN` ＋ `src/config/x-twitter.yaml`）。
 
 実装上のcollector一覧（`src/collectors/index.ts`）: `zenn`, `openai`, `anthropic`, `google`, `hackernews`, `techcrunch`, `bbc`, `x`。
 
@@ -49,4 +49,4 @@ npm run digest
 
 ## 詳細
 
-要件は `requirements.md` を参照してください。
+実装の詳細は `src/collectors/` 各モジュールと `src/digest.ts` を参照してください。
