@@ -13,6 +13,7 @@ env:
   ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
   SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
   X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+  MISE_TRUSTED_CONFIG_PATHS: ${{ github.workspace }}/.mise.toml
 
 jobs:
   digest:
@@ -21,14 +22,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - uses: jdx/mise-action@v4
         with:
-          node-version: "20"
-          cache: npm
+          install: true
+          cache: true
 
-      - run: npm ci
+      - run: pnpm install --frozen-lockfile
 
-      - run: npx tsx src/digest.ts
+      - run: pnpm exec tsx src/digest.ts
 
       - name: Commit and push delivered.json
         if: success()
