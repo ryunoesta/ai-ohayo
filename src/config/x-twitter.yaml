@@ -1,0 +1,7 @@
+# X (Twitter) アカウント。@は省略可。環境変数 X_BEARER_TOKEN（X API v2）が必要。
+handles:
+  - Google
+  - Anthropic
+  - ClaudeDevs
+  - claudeai
+  - OpenAI

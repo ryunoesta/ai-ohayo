@@ -12,6 +12,7 @@ env:
   FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
   ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
   SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+  X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
 
 jobs:
   digest:

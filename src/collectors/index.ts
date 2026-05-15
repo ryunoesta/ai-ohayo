@@ -4,7 +4,9 @@ import { collectOpenAiBlog } from "./openai-blog.js";
 import { collectAnthropicBlog } from "./anthropic-blog.js";
 import { collectGoogleAiBlog } from "./google-ai-blog.js";
 import { collectHackerNews } from "./hackernews.js";
-import { collectGithubTrending } from "./github-trending.js";
+import { collectTechCrunch } from "./techcrunch.js";
+import { collectBbcTech } from "./bbc-tech.js";
+import { collectXTwitter } from "./x-twitter.js";
 
 type CollectorName =
   | "zenn"
@@ -12,7 +14,9 @@ type CollectorName =
   | "anthropic"
   | "google"
   | "hackernews"
-  | "github";
+  | "techcrunch"
+  | "bbc"
+  | "x";
 
 const COLLECTORS: Record<CollectorName, () => Promise<CollectedArticle[]>> = {
   zenn: collectZenn,
@@ -20,7 +24,9 @@ const COLLECTORS: Record<CollectorName, () => Promise<CollectedArticle[]>> = {
   anthropic: collectAnthropicBlog,
   google: collectGoogleAiBlog,
   hackernews: collectHackerNews,
-  github: collectGithubTrending,
+  techcrunch: collectTechCrunch,
+  bbc: collectBbcTech,
+  x: collectXTwitter,
 };
 
 export type CollectorResult = {

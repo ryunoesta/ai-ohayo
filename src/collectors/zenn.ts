@@ -61,13 +61,6 @@ export async function collectZennTrending(): Promise<CollectedArticle[]> {
 }
 
 export async function collectZenn(): Promise<CollectedArticle[]> {
-  const [rss, trending] = await Promise.all([collectZennRss(), collectZennTrending()]);
-  const seen = new Set<string>();
-  const out: CollectedArticle[] = [];
-  for (const a of [...rss, ...trending]) {
-    if (!a.url || seen.has(a.url)) continue;
-    seen.add(a.url);
-    out.push(a);
-  }
-  return out;
+  // トレンドは RSS（FEEDS）でカバーするため、まずはRSSのみを返す
+  return await collectZennRss();
 }
