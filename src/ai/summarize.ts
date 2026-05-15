@@ -2,7 +2,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import type { CollectedArticle, DigestItem } from "../types.js";
 import { buildSummarizePrompt } from "./prompts.js";
 
-const MODEL = "claude-sonnet-4-20250514";
+const MODEL = "claude-sonnet-4-6";
 
 type ApiDigest = {
   items?: DigestItem[];
