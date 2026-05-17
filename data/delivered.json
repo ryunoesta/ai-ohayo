@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://zenn.dev/joemike/articles/minimum-mvp-strategy-indie-dev-2026",
-      "deliveredAt": "2026-05-10T20:47:00.894Z"
-    },
-    {
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "deliveredAt": "2026-05-10T20:47:00.894Z"
-    },
-    {
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "deliveredAt": "2026-05-10T20:47:00.894Z"
-    },
-    {
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "deliveredAt": "2026-05-11T21:16:19.798Z"
     },
@@ -139,6 +127,22 @@
     {
       "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
       "deliveredAt": "2026-05-16T20:46:26.184Z"
+    },
+    {
+      "url": "https://zenn.dev/saytooy_arch/articles/17-satisfies-domain-constants",
+      "deliveredAt": "2026-05-17T20:51:18.919Z"
+    },
+    {
+      "url": "https://github.com/MinishLab/semble",
+      "deliveredAt": "2026-05-17T20:51:18.919Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "deliveredAt": "2026-05-17T20:51:18.919Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "deliveredAt": "2026-05-17T20:51:18.919Z"
     }
   ]
 }
