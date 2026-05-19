@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "deliveredAt": "2026-05-11T21:16:19.798Z"
-    },
-    {
-      "url": "https://bild.ai/jobs",
-      "deliveredAt": "2026-05-11T21:16:19.798Z"
-    },
-    {
       "url": "https://github.com/cactus-compute/needle",
       "deliveredAt": "2026-05-12T21:19:42.780Z"
     },
@@ -183,6 +175,46 @@
     {
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "deliveredAt": "2026-05-18T21:12:35.769Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://zenn.dev/tak_naga/articles/6222cee7f13f66",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
+    },
+    {
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "deliveredAt": "2026-05-19T21:19:14.612Z"
     }
   ]
 }
