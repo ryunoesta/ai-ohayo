@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://x.com/ClaudeDevs/status/2056403446056784288",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://x.com/ClaudeDevs/status/2056454359685476491",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://x.com/Google/status/2056446561086001599",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://x.com/claudeai/status/2056460045756309820",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://x.com/ClaudeDevs/status/2056434422229123106",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://github.com/InsForge/InsForge",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://odyssey.ml/introducing-agora-1",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "deliveredAt": "2026-05-18T21:12:35.769Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://zenn.dev/tak_naga/articles/6222cee7f13f66",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "deliveredAt": "2026-05-19T21:19:14.612Z"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
       "deliveredAt": "2026-05-20T21:53:30.871Z"
     },
@@ -243,6 +163,38 @@
     {
       "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
       "deliveredAt": "2026-05-25T21:05:34.512Z"
+    },
+    {
+      "url": "https://x.com/ClaudeDevs/status/2059385239781384341",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://x.com/Google/status/2059388304341057789",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://x.com/Google/status/2059302072705585389",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.26099",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://x.com/ClaudeDevs/status/2059385243476586715",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
+    },
+    {
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
+      "deliveredAt": "2026-05-26T21:45:27.573Z"
     }
   ]
 }
