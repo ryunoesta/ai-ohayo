@@ -1,18 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "deliveredAt": "2026-05-23T20:51:35.354Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-      "deliveredAt": "2026-05-23T20:51:35.354Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "deliveredAt": "2026-05-23T20:51:35.354Z"
-    },
-    {
       "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
       "deliveredAt": "2026-05-24T20:55:09.532Z"
     },
@@ -195,6 +183,22 @@
     {
       "url": "https://x.com/Google/status/2060473826362732611",
       "deliveredAt": "2026-05-29T21:52:06.588Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "deliveredAt": "2026-05-30T20:56:25.579Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "deliveredAt": "2026-05-30T20:56:25.579Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "deliveredAt": "2026-05-30T20:56:25.579Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "deliveredAt": "2026-05-30T20:56:25.579Z"
     }
   ]
 }
