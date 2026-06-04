@@ -1,46 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://x.com/ClaudeDevs/status/2059701683828264962",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://x.com/claudeai/status/2059662933924123044",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://posthog.com/blog/training-ai-models",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://x.com/Google/status/2059741477358407904",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
-      "url": "https://x.com/Google/status/2059752366195245075",
-      "deliveredAt": "2026-05-27T21:54:32.371Z"
-    },
-    {
       "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
       "deliveredAt": "2026-05-28T21:55:23.843Z"
     },
@@ -235,6 +195,46 @@
     {
       "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
       "deliveredAt": "2026-06-02T22:22:41.507Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "deliveredAt": "2026-06-04T21:41:36.646Z"
     }
   ]
 }
