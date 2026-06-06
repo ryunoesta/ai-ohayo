@@ -1,102 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://x.com/Google/status/2060044912171549083",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://zenn.dev/quotidia/articles/quotidia-aq-006",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "deliveredAt": "2026-05-28T21:55:23.843Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://x.com/ClaudeDevs/status/2060432688281251998",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://zenn.dev/genka_build/articles/6739d3d78a53df",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://research.roundtable.ai/captchas-detect-ai/",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://x.com/Google/status/2060473826362732611",
-      "deliveredAt": "2026-05-29T21:52:06.588Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "deliveredAt": "2026-05-30T20:56:25.579Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "deliveredAt": "2026-05-30T20:56:25.579Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "deliveredAt": "2026-05-30T20:56:25.579Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "deliveredAt": "2026-05-30T20:56:25.579Z"
-    },
-    {
       "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
       "deliveredAt": "2026-05-31T20:59:39.395Z"
     },
@@ -235,6 +139,34 @@
     {
       "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
       "deliveredAt": "2026-06-04T21:41:36.646Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://zenn.dev/zittiandbuoni/articles/b366f9aff7ce82",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://universalmemoryprotocol.io/",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "deliveredAt": "2026-06-06T21:04:00.067Z"
     }
   ]
 }
