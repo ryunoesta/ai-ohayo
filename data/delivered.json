@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "deliveredAt": "2026-05-31T20:59:39.395Z"
-    },
-    {
-      "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-      "deliveredAt": "2026-05-31T20:59:39.395Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-      "deliveredAt": "2026-05-31T20:59:39.395Z"
-    },
-    {
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "deliveredAt": "2026-05-31T20:59:39.395Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "deliveredAt": "2026-05-31T20:59:39.395Z"
-    },
-    {
       "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
       "deliveredAt": "2026-06-01T22:33:33.530Z"
     },
@@ -167,6 +147,26 @@
     {
       "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
       "deliveredAt": "2026-06-06T21:04:00.067Z"
+    },
+    {
+      "url": "https://bearisland.dev/posts/tokens-and-tokenization/",
+      "deliveredAt": "2026-06-07T21:11:53.334Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "deliveredAt": "2026-06-07T21:11:53.334Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "deliveredAt": "2026-06-07T21:11:53.334Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "deliveredAt": "2026-06-07T21:11:53.334Z"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.31514",
+      "deliveredAt": "2026-06-07T21:11:53.334Z"
     }
   ]
 }
