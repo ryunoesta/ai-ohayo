@@ -1,46 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://github.com/features/preview/github-app",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://x.com/ClaudeDevs/status/2061900434722496604",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://x.com/Google/status/2061925876103598449",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://www.kapa.ai/blog/how-we-index-images-for-rag",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
-      "url": "https://julienreszka.com/blog/rss-is-back-ai-agents-are-reading-it/",
-      "deliveredAt": "2026-06-02T22:22:41.507Z"
-    },
-    {
       "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
       "deliveredAt": "2026-06-04T21:41:36.646Z"
     },
@@ -207,6 +167,46 @@
     {
       "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
       "deliveredAt": "2026-06-09T21:47:15.186Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://burr.apache.org/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/north-koreans-behind-nearly-half-of-us-tech-industry-hacks-says-crowdstrike/",
+      "deliveredAt": "2026-06-10T22:02:14.598Z"
     }
   ]
 }
