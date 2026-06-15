@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://bearisland.dev/posts/tokens-and-tokenization/",
-      "deliveredAt": "2026-06-07T21:11:53.334Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "deliveredAt": "2026-06-07T21:11:53.334Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "deliveredAt": "2026-06-07T21:11:53.334Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "deliveredAt": "2026-06-07T21:11:53.334Z"
-    },
-    {
-      "url": "https://arxiv.org/abs/2605.31514",
-      "deliveredAt": "2026-06-07T21:11:53.334Z"
-    },
-    {
-      "url": "https://zenn.dev/nora_saito/articles/46e2d3fdefdf54",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://developer.apple.com/documentation/coreai/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=48449187",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/08/apple-is-tweaking-its-controversial-liquid-glass-design/",
-      "deliveredAt": "2026-06-08T21:49:55.348Z"
-    },
-    {
       "url": "https://zenn.dev/ranran0227/articles/11bb5f4fc4d655",
       "deliveredAt": "2026-06-09T21:47:15.186Z"
     },
@@ -243,6 +183,34 @@
     {
       "url": "https://github.com/nex-agi/Nex-N2/issues/4",
       "deliveredAt": "2026-06-14T21:11:58.074Z"
+    },
+    {
+      "url": "https://zenn.dev/uya0526_design/articles/satellite1_amivoice-bff",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
+    },
+    {
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
+    },
+    {
+      "url": "https://bbenchoff.github.io/pages/8Tracks.html",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
+      "deliveredAt": "2026-06-15T22:18:37.038Z"
     }
   ]
 }
