@@ -1,58 +1,6 @@
 {
   "entries": [
     {
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://bitboard.work/",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
-      "deliveredAt": "2026-06-12T21:43:28.010Z"
-    },
-    {
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "deliveredAt": "2026-06-13T21:15:33.298Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "deliveredAt": "2026-06-13T21:15:33.298Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "deliveredAt": "2026-06-13T21:15:33.298Z"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "deliveredAt": "2026-06-13T21:15:33.298Z"
-    },
-    {
-      "url": "https://www.theintrinsicperspective.com/p/dont-dethrone-consciousness",
-      "deliveredAt": "2026-06-13T21:15:33.298Z"
-    },
-    {
       "url": "https://zenn.dev/youtyandesu/articles/a3df6e9587e966",
       "deliveredAt": "2026-06-14T21:11:58.074Z"
     },
@@ -235,6 +183,34 @@
     {
       "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
       "deliveredAt": "2026-06-19T21:09:56.697Z"
+    },
+    {
+      "url": "https://github.com/oven-sh/WebKit/pull/249",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
+    },
+    {
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
+    },
+    {
+      "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+      "deliveredAt": "2026-06-20T21:18:21.249Z"
     }
   ]
 }
